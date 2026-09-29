@@ -6,9 +6,9 @@ The goal of this repository is to experiment, learn, and build small useful tool
 
 ## Scripts
 
-| Script       | Language | Description                |
-| ------------ | -------- | -------------------------- |
-|              |          |                            |
+|    Script        | Language | Description                |
+| ---------------- | -------- | -------------------------- |
+|  file-organizer  |  bash    |  Script that organizes files into directories named with their extension                          |
 
 ## Python
 
