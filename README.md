@@ -31,3 +31,7 @@ Bash scripts focused on Linux, system administration, automation, file manipulat
 These scripts are primarily intended for **learning and experimentation**. Some scripts may be incomplete, inefficient, or intentionally simple.
 
 Use them at your own risk and review the code before running anything on your system.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
