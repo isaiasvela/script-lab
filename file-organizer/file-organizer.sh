@@ -42,7 +42,7 @@ main () {
 		
 		directory=${directory%/}
 		if [[ ! -d "$directory" ]]; then
-			echo -e "${RED}Error:${NC} el directorio '$directory' no existe."
+			echo -e "${RED}Error:${NC} Directory '$directory' does not exist."
 			usage
 			exit 1
 		fi
